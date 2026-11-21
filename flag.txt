@@ -1,0 +1,2 @@
+FLAG{esto_seria_demasiado_facil}
+(Nope. Sigue buscando.)
